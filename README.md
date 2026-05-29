@@ -27,8 +27,8 @@ Configuration              N features        N classes         Macro F1
 A — Static only                 8               4              0.402 ± 0.021
 B — Enriched                    24              4              0.789 ± 0.046 
 C — Enriched                    24              3              0.844 ± 0.043
-Ablation study (Wilcoxon signed-rank, paired across 16 cumulative-week cutoffs):
 
-Temporal-only vs Static-only: ΔF1 = +0.332, p < 0.001
-All vs Temporal-only: ΔF1 = −0.017, p = 1.0 (n.s.)
+Ablation study (Wilcoxon signed-rank, paired across 16 cumulative-week cutoffs):
+ -Temporal-only vs Static-only: ΔF1 = +0.332, p < 0.001
+ -All vs Temporal-only: ΔF1 = −0.017, p = 1.0 (n.s.)
 
