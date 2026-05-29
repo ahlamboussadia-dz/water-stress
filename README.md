@@ -24,7 +24,7 @@ The second produces the ablation study and Figure 10.
 Alternatively, the notebooks can be uploaded to Google Colab — no local installation required.
 
 Key results:
-Configuration              N features        N classes         Macro F1 
+Configuration              N features        N classes           Macro F1 
 A — Static only                 8               4              0.402 ± 0.021
 B — Enriched                    24              4              0.789 ± 0.046 
 C — Enriched                    24              3              0.844 ± 0.043
