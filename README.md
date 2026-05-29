@@ -15,8 +15,9 @@ How to reproduce ?
 2. Install dependencies
 pip install -r requirements.txt
 3. Run the notebooks in order
-jupyter notebook notebooks/01_pipeline_complete.ipynb
-jupyter notebook notebooks/02_ablation_study.ipynb
+jupyter notebook notebooks/Pipeline_Complet_Etape1_et_2.ipynb
+jupyter notebook notebooks/Etape_3_Ablation_Et_Figures_Finales.ipynb
+jupyter notebook notebooks/Etape_4_Bootstrap_CI.ipynb
 
 The first notebook produces the main benchmark results, SHAP analysis, and LOVO cross-validation. 
 The second produces the ablation study and Figure 10.
