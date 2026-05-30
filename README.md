@@ -18,7 +18,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/Pipeline_Complet_Etape1_et_2.ipynb
 jupyter notebook notebooks/Etape_3_Ablation_Et_Figures_Finales.ipynb
 jupyter notebook notebooks/Etape_4_Bootstrap_CI.ipynb
-
+Or Directly Etape_1_FINAL_Features_Temporelles.ipynb:
 The first notebook produces the main benchmark results, SHAP analysis, and LOVO cross-validation. 
 The second produces the ablation study and Figure 10.
 Alternatively, the notebooks can be uploaded to Google Colab — no local installation required.
