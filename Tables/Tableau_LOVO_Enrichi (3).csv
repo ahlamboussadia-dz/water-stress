@@ -1,0 +1,4 @@
+Variété test,Train,Macro F1,Accuracy
+Haouzia,Languedoc+Menara,0.704,0.703
+Languedoc,Haouzia+Menara,0.592,0.607
+Menara,Haouzia+Languedoc,0.694,0.686

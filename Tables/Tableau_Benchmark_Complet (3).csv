@@ -1,0 +1,19 @@
+Configuration,Modèle,Accuracy,Macro F1,Bal. Acc
+A — Base (4 classes),XGBoost,0.410 ± 0.036,0.405 ± 0.036,0.410 ± 0.036
+A — Base (4 classes),Random Forest,0.395 ± 0.028,0.392 ± 0.026,0.395 ± 0.028
+A — Base (4 classes),KNN,0.375 ± 0.017,0.373 ± 0.017,0.375 ± 0.017
+A — Base (4 classes),MLP,0.354 ± 0.025,0.351 ± 0.027,0.354 ± 0.025
+A — Base (4 classes),SVM (RBF),0.346 ± 0.058,0.346 ± 0.059,0.346 ± 0.058
+A — Base (4 classes),Logistic Regression,0.347 ± 0.026,0.331 ± 0.018,0.347 ± 0.026
+B — Enrichi (4 classes),XGBoost,0.804 ± 0.046,0.803 ± 0.046,0.804 ± 0.046
+B — Enrichi (4 classes),Random Forest,0.784 ± 0.065,0.781 ± 0.067,0.784 ± 0.065
+B — Enrichi (4 classes),MLP,0.638 ± 0.037,0.637 ± 0.038,0.638 ± 0.037
+B — Enrichi (4 classes),SVM (RBF),0.636 ± 0.039,0.632 ± 0.042,0.636 ± 0.039
+B — Enrichi (4 classes),KNN,0.602 ± 0.019,0.598 ± 0.020,0.602 ± 0.019
+B — Enrichi (4 classes),Logistic Regression,0.498 ± 0.053,0.491 ± 0.055,0.498 ± 0.053
+C — Enrichi (3 classes),XGBoost,0.850 ± 0.039,0.847 ± 0.040,0.844 ± 0.038
+C — Enrichi (3 classes),Random Forest,0.829 ± 0.059,0.821 ± 0.062,0.806 ± 0.058
+C — Enrichi (3 classes),MLP,0.727 ± 0.019,0.724 ± 0.018,0.725 ± 0.014
+C — Enrichi (3 classes),SVM (RBF),0.729 ± 0.039,0.723 ± 0.039,0.723 ± 0.034
+C — Enrichi (3 classes),KNN,0.701 ± 0.016,0.690 ± 0.019,0.685 ± 0.020
+C — Enrichi (3 classes),Logistic Regression,0.642 ± 0.063,0.601 ± 0.056,0.599 ± 0.050

@@ -1,0 +1,4 @@
+Comparison,Delta_mean_F1,Delta_median_F1,Wilcoxon_stat,p_value,Significance
+Temporal vs Static,0.334,0.316,120.0,3.1e-05,***
+All vs Static,0.313,0.304,120.0,3.1e-05,***
+All vs Temporal,-0.02,-0.019,7.0,0.999573,ns

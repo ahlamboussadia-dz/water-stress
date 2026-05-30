@@ -1,0 +1,5 @@
+Variant,N_features,Features,Macro_F1,Std
+Top-3 SHAP,3,"Temperature_delta, Height, SPAD_std",0.456,0.038
+Top-5 SHAP,5,"Temperature_delta, Height, SPAD_std, Height_delta, Average_SPAD_delta",0.521,0.054
+Top-10 SHAP,10,"Temperature_delta, Height, SPAD_std, Height_delta, Average_SPAD_delta, Canopy_Cover_delta, Canopy_Cover, SPAD_range, Trunk_Diameter, Temperature_roll3",0.698,0.039
+All features (24),24,"Height, Trunk_Diameter, Canopy_Cover, Average_SPAD, SPAD_std, SPAD_range, Temperature, Branches, Height_delta, Temperature_delta, Average_SPAD_delta, Canopy_Cover_delta, Branches_delta, Trunk_Diameter_delta, Temperature_roll3, Average_SPAD_roll3, Height_roll3, Branches_roll3, Trunk_Diameter_roll3, Temperature_roll3std, Average_SPAD_roll3std, Temp_SPAD_ratio, week_num, Temp_cumsum",0.847,0.04

@@ -1,0 +1,4 @@
+Configuration,Best model,Macro F1,Accuracy,Bal. Acc
+A - Base (4 classes),XGBoost,0.405 ± 0.036,0.410 ± 0.036,0.410 ± 0.036
+B - Enrichi (4 classes),XGBoost,0.803 ± 0.046,0.804 ± 0.046,0.804 ± 0.046
+C - Enrichi (3 classes),XGBoost,0.847 ± 0.040,0.850 ± 0.039,0.844 ± 0.038
